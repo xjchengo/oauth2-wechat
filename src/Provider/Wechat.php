@@ -9,7 +9,7 @@ use Xjchen\OAuth2\Client\Token\AccessToken;
 use Ivory\HttpAdapter\CurlHttpAdapter;
 use Ivory\HttpAdapter\HttpAdapterException;
 use Ivory\HttpAdapter\HttpAdapterInterface;
-use League\OAuth2\Client\Grant\GrantInterface;
+use Xjchen\OAuth2\Client\Grant\GrantInterface;
 use Xjchen\OAuth2\Client\Exception\IDPException;
 
 class Wechat
