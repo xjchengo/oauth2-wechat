@@ -12,7 +12,7 @@ Add the following to your `composer.json` file.
 ```json
 {
     "require": {
-        "xjchen/oauth2-wechat": "~0.0@dev"
+        "xjchen/oauth2-wechat": "~0.0"
     }
 }
 ```
