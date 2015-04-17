@@ -7,8 +7,6 @@ This package makes it stupidly simple to integrate your application with Wechat 
 
 Add the following to your `composer.json` file.
 
-> **Note:** Once version 1.0 of the [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client) is released, you'll be able to install from composer without the `@dev` minimum stability flag.
-
 ```json
 {
     "require": {
