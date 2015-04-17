@@ -91,6 +91,13 @@ $token = $provider->getAccessToken($grant, ['refresh_token' => $refreshToken]);
 ```
 
 
+## To do
+
+- Chinese README
+- Chinese Description
+- Take international Wechat Oauth2 Interface into account
+
+
 ## License
 
 The MIT License (MIT). Please see [License File](https://github.com/xjchengo/oauth2-wechat/blob/master/LICENSE) for more information.
